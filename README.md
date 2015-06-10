@@ -7,3 +7,6 @@ O'Reilly Japanの[“Spidering Hacks”](http://www.oreilly.co.jp/books/48731118
 - asahi, nikkei, yomiuri は機能しない
 - [Google newsは機能している](http://dainippon.type.org/jisakujien/googlenews.php)
 - [Wikinewsも機能している](http://http://dainippon.type.org/jisakujien/wikinews.php)
+
+##ライセンスについて
+[本プログラムはMITライセンスの元公開しています。](https://github.com/dezaiso/hiragana_news/blob/master/LICENSE)
