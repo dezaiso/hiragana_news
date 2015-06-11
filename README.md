@@ -9,4 +9,6 @@ O'Reilly Japanの[“Spidering Hacks”](http://www.oreilly.co.jp/books/48731118
 - [Wikinewsも機能している](http://http://dainippon.type.org/jisakujien/wikinews.php)
 
 ##ライセンスについて
-[本プログラムはMITライセンスの元公開しています。](https://github.com/dezaiso/hiragana_news/blob/master/LICENSE)
+- [本プログラムはMITライセンスの元公開しています。](https://github.com/dezaiso/hiragana_news/blob/master/LICENSE)
+- もとは、O'Reilly Japanの[“Spidering Hacks”](http://www.oreilly.co.jp/books/4873111870/)の84番を改変したものです。
+- [ひらひらのひらがなめがね](http://hiragana.jp/)内のプログラムはサイト所有者に属します。
